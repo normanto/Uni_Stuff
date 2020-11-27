@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
+
 int main()
+
 {
     int cifra1, cifra2, risultato;
     char operatore;
@@ -35,5 +37,5 @@ int main()
     cout << "\n\n\n";
     
     system("pause");
-    
+
 }

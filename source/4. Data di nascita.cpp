@@ -15,4 +15,5 @@ int main()
         cin >> anno; 
 
     cout << "Ua impressione, sei nato il " <<giorno <<"/" <<mese <<"/" <<anno; 
+    
 }

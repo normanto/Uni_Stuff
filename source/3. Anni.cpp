@@ -10,4 +10,5 @@ int main()
 
 	cout << "Impressione hai " << numero << " anni." << endl;
 		cout << "Fratello però te li porti bene." << endl;
+		
 }

@@ -9,4 +9,5 @@ int main()
 			cin >> tasto;
 
 		cout << "Grazie! Hai premuto: " << tasto << endl;
+		
 }
