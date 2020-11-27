@@ -14,9 +14,12 @@ int main()
         cout << "Inserire la % dell'aliquota: ";
             cin >> iva; 
 
-        final_price = ((starting_price*22)/100) + starting_price;
-
+        final_price = ((starting_price*iva)/100) + starting_price;
+        
+        cout << "\n";
         cout << "Il prezzo finale e': " << final_price;
         cout << "\n\n";    
-        
+
+    system("pause");
+
 }
