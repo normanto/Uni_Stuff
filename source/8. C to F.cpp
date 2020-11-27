@@ -5,7 +5,10 @@ int main()
 
 {
     float c, f;
-        cout << "Inserisci la temperatura in Celsius: ";
+    
+    cout << "Converti la temperature da Celsius a Fahrenheit";
+
+        cout << "\n\nInserisci la temperatura in Celsius: ";
             cin >> c;
 
     f = c * 1.8 + 32;
