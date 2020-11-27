@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main ()
+int main()
+
 {
     float c, f;
         cout << "Inserisci la temperatura in Celsius: ";

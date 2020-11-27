@@ -16,5 +16,3 @@ int main()
 
     cout << "Ua impressione, sei nato il " <<giorno <<"/" <<mese <<"/" <<anno; 
 }
- 
- 

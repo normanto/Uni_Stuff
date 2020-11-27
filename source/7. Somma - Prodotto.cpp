@@ -16,5 +16,4 @@ int main()
 
     cout << "Il risultato e' " << somma - prodotto;
     cout <<"\n\n";
-
 }
