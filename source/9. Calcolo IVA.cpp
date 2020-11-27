@@ -7,7 +7,8 @@ int main()
     float starting_price, final_price, iva;
 
     cout << "Calcola il prezzo finale di un oggetto aggiungendo un'aliquota variabile.";
-        cout << "\n\nInserire prezzo con iva esclusa: ";
+
+        cout << "\n\nInserire prezzo con IVA esclusa: ";
             cin >> starting_price;
 
         cout << "Inserire la % dell'aliquota: ";
