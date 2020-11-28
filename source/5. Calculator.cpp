@@ -7,15 +7,16 @@ int main()
     int cifra1, cifra2, risultato;
     char operatore;
     char tasto;
-    cout <<"Ciao frate, sono una calcolatrice potentissima." << endl;
+    
+    cout << "Ciao frate, sono una calcolatrice potentissima." << endl;
         
-        cout <<"Inserisci la prima cifra   : ";
+        cout << "\nInserisci la prima cifra   : ";
             cin >> cifra1; 
 
-        cout <<"Inserisci l'operatore      : ";
+        cout << "Inserisci l'operatore      : ";
             cin >> operatore; 
     
-        cout <<"Inserisci la seconda cifra : ";
+        cout << "Inserisci la seconda cifra : ";
             cin >> cifra2;
 
     switch (operatore)
@@ -33,8 +34,8 @@ int main()
 
     };
 
-    cout << "\nIl risultato e' " <<risultato;
-    cout << "\n\n\n";
+        cout << "\nIl risultato e' " << risultato;
+        cout << "\n\n\n";
     
     system("pause");
 
