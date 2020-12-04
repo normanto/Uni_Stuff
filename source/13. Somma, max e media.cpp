@@ -22,9 +22,9 @@ int main()
                 sum = sum + num;
                 if (num > max);
                     max = num;
-            }
+            
                 n = n + 1;
-                
+            }   
         }  
             while (continua);
 
