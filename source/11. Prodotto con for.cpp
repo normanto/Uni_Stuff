@@ -20,5 +20,4 @@ int main()
         
         cout << "\nIl risultato e': " << tot;
         cout << "\n\n";
-
 }

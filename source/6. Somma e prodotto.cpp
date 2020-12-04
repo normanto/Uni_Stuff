@@ -16,6 +16,5 @@ int main()
 
     cout << "\nLa somma e' " << a+b << endl;
     cout << "Il prodotto e' " << a*b << endl;
-    cout << "\n\n";
-    
+    cout << "\n\n";    
 }

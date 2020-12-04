@@ -16,6 +16,5 @@ int main()
         cin >> anno; 
 
         cout << "\nUa impressione, sei nato il " << giorno << "/" << mese << "/" << anno; 
-        cout << "\n\n";
-    
+        cout << "\n\n";    
 }

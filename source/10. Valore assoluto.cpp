@@ -16,6 +16,5 @@ int main()
 
     else if (num < 0) 
         cout << "Il suo valore assoluto e': " << -num;
-        cout << "\n\n";
-         
+        cout << "\n\n";         
 }

@@ -16,5 +16,4 @@ int main()
 
     cout << "Il tempo di caduta dell'oggetto e' di " << t << " secondi.";
     cout << "\n\n";
-
 }

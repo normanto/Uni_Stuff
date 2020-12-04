@@ -14,6 +14,5 @@ int main()
     f = c * 1.8 + 32;
 
         cout << "La temperatura equivale a: " << f << " F";
-        cout << "\n\n"; 
-        
+        cout << "\n\n";         
 }

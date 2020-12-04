@@ -18,6 +18,5 @@ int main()
     prodotto = a * b;
 
         cout << "Il risultato e' " << somma - prodotto;
-        cout << "\n\n";
-    
+        cout << "\n\n";    
 }
